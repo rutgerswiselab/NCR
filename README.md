@@ -21,7 +21,7 @@ For inquiries contact Hanxiong Chen (hanxiong.chen@rutgers.edu) or Yongfeng Zhan
 
 Python 3.6.6
 
-Packages: See in [requirements.txt](https://github.com/rutgerswiselab/NLR/blob/master/requirements.txt)
+Packages: See in [requirements.txt](https://github.com/rutgerswiselab/NCR/blob/master/requirements.txt)
 
 ```
 numpy==1.18.1
@@ -43,7 +43,7 @@ scikit_learn==0.23.1
 
 ## Example to run the codes
 
--   Some running commands can be found in [`./command/command.py`](https://github.com/rutgerswiselab/NLR/blob/master/command/command.py)
+-   Some running commands can be found in [`./command/command.py`](https://github.com/rutgerswiselab/NCR/blob/master/command/command.py)
 -   For example:
 
 ```
