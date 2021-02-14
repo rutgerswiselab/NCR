@@ -42,7 +42,7 @@ scikit_learn==0.23.1
     
 
 ## Example to run the codes
-
+-   To guarantee the program can execute properly, please keep the directory structure as given in this repository.
 -   Some running commands can be found in [`./command/command.py`](https://github.com/rutgerswiselab/NCR/blob/master/command/command.py)
 -   For example:
 
