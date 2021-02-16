@@ -1,1 +1,4 @@
+# Data File Description
+Interactions in the datasets are sorted by original timestamp. All the interactions in train comes earlier than those in validation, and then earlier than those in test set. We do positive leave-one-out to keep the last user positive interaction (with rating >3) in the test set. The second to the last positive interaction is in validation set. To guarantee that we do not have cold start problem, we put all the interactions of users who with less than 5 interactions in train set only.
 
+For interactions with label 0 in test sets are not used for evaluation. You can ignore those records since we only want to recommend the items that a user do want to buy. For interactions with label 0 in validation set are also not used for evaluation. However, we need to keep this information in the file so that the negative feedback information can be used as part of the sequence for recommending the item in the test set.
