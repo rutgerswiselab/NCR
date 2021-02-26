@@ -1,5 +1,5 @@
 # Neural Collaborative Reasoning
-This repository includes the implementation for Neural Collaborative Reasoning (NCR):
+This repository includes the implementation for paper Neural Collaborative Reasoning (NCR):
 
 *Hanxiong Chen, Shaoyun Shi, Yunqi Li, Yongfeng Zhang. 2021. [Neural Collaborative Reasoning](https://arxiv.org/pdf/2005.08129.pdf). 
 In Proceedings of the Web Conference 2021(WWW ’21)*
