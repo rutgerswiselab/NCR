@@ -2,7 +2,9 @@
 This repository includes the implementation for paper Neural Collaborative Reasoning (NCR):
 
 *Hanxiong Chen, Shaoyun Shi, Yunqi Li, Yongfeng Zhang. 2021. [Neural Collaborative Reasoning](https://arxiv.org/pdf/2005.08129.pdf). 
-In Proceedings of the Web Conference 2021(WWW ’21)*
+In Proceedings of the Web Conference 2021 (WWW ’21)*
+
+A step-by-step tutorial of the NCR model based on Jupyter Notebook is availbe at [here on GitHub](https://github.com/bmxitalia/NCRProject). We appreciate the efforts of [@bmxitalia](https://github.com/bmxitalia) for reproducing the model and providing the nicely designed step-by-step tutorial.
 
 ## Refernece
 
