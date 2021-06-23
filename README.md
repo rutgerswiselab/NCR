@@ -13,9 +13,17 @@ For inquiries contact Hanxiong Chen (hanxiong.chen@rutgers.edu) or Yongfeng Zhan
 ```
 @inproceedings{chen2021neural,
   title={Neural Collaborative Reasoning},
-  author={Hanxiong Chen, Shaoyun Shi, Yunqi Li, and Yongfeng Zhang},
-  booktitle={Proceedings of the the Web Conference 2021},
+  author={Chen, Hanxiong and Shi, Shaoyun and Li, Yunqi and Zhang, Yongfeng},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={1516--1527},
   year={2021}
+}
+@inproceedings{shi2020neural,
+  title={Neural Logic Reasoning},
+  author={Shi, Shaoyun and Chen, Hanxiong and Ma, Weizhi and Mao, Jiaxin and Zhang, Min and Zhang, Yongfeng},
+  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  pages={1365--1374},
+  year={2020}
 }
 ```
 
